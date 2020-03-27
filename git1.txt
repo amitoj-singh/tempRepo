@@ -1,1 +1,1 @@
-This is my first repo from bas
+This is my first repo from bash.
