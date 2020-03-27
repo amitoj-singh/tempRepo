@@ -3,7 +3,3 @@ This is my first repo from bash
 This is the 3rd change.
 Checking the 4th change.
 changes made in branch1 instead of master. yes great (from github.com)
-=======
-This is my first repo from bash.
-This is the 3rd change.
-Checking the 4th change.
